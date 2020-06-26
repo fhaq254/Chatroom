@@ -5,3 +5,5 @@
  * Drew Bernard
  * Last Modified: 6/22/2019
  */
+ 
+ Chatroom program that can communicate via a shared wifi server between two devices and send messages through a Java GUI
